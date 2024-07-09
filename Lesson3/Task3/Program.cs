@@ -1,4 +1,4 @@
-﻿// output: zero even elements: 1 0 3 0 5
+﻿// output: zero even elements 
 
 void ZeroEvenElements(int[] arr)
 {
@@ -21,4 +21,4 @@ void PrintArray(int[] arr)
 
 int[] array = { -2, -1, 566, 33333 };
 ZeroEvenElements(array);
-PrintArray(array); // Output: 1 0 3 0 5
+PrintArray(array); 
