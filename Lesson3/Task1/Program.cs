@@ -8,4 +8,3 @@
 
 double result = CalculateFormula(1, 2, 3, 4);
 System.Console.WriteLine(result);
-
